@@ -20,7 +20,7 @@ status-website:
   logoUrl: https://chblob.icloudhospital.com/nextjs-ch/icons/logo.png
   name: CloudHospital status
   introTitle: Monitor server status on the CloudHospital platform.
-  introMessage: Server status data can be obtained from [iCloudHospital/upptime](https://github.com/iCloudHospital/upptime).
+  introMessage: Server status data can be obtained from [cloudhospitaldev/upptime](https://github.com/cloudhospitaldev/upptime).
   navbar:
     - title: Status
       href: /
