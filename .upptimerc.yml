@@ -5,12 +5,16 @@ repo: upptime # The name of this repository
 sites:
   - name: ClientPlatform
     url: https://icloudhospital.com/api/healthz
+    maxResponseTime: 3000 # 3 sec
   - name: AdminPlatform
     url: https://global.icloudhospital.com/api/healthz
+    maxResponseTime: 5000 # 3 sec
   - name: ClientApi
     url: https://api.icloudhospital.com/healthz
+    maxResponseTime: 3000 # 3 sec
   - name: AdminApi
     url: https://admin-api.icloudhospital.com/healthz
+    maxResponseTime: 5000 # 3 sec
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -30,3 +34,5 @@ status-website:
       href: https://github.com/$OWNER/$REPO
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+skipDeleteIssues: true
