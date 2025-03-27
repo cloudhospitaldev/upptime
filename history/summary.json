@@ -4,19 +4,19 @@
     "url": "https://icloudhospital.com/api/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/icloudhospital.com.ico",
     "slug": "client-platform",
-    "status": "degraded",
-    "uptime": "98.70%",
-    "uptimeDay": "92.20%",
-    "uptimeWeek": "98.70%",
-    "uptimeMonth": "98.70%",
-    "uptimeYear": "98.70%",
-    "time": 1757,
-    "timeDay": 4425,
-    "timeWeek": 1757,
-    "timeMonth": 1757,
-    "timeYear": 1757,
+    "status": "up",
+    "uptime": "98.59%",
+    "uptimeDay": "91.50%",
+    "uptimeWeek": "98.59%",
+    "uptimeMonth": "98.59%",
+    "uptimeYear": "98.59%",
+    "time": 1709,
+    "timeDay": 4057,
+    "timeWeek": 1709,
+    "timeMonth": 1709,
+    "timeYear": 1709,
     "dailyMinutesDown": {
-      "2025-03-27": 112
+      "2025-03-27": 122
     }
   },
   {
