@@ -4,18 +4,20 @@
     "url": "https://icloudhospital.com/api/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/icloudhospital.com.ico",
     "slug": "client-platform",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 278,
-    "timeDay": 334,
-    "timeWeek": 278,
-    "timeMonth": 278,
-    "timeYear": 278,
-    "dailyMinutesDown": {}
+    "time": 1598,
+    "timeDay": 13509,
+    "timeWeek": 1598,
+    "timeMonth": 1598,
+    "timeYear": 1598,
+    "dailyMinutesDown": {
+      "2025-03-27": 0
+    }
   },
   {
     "name": "AdminPlatform",
