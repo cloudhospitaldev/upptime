@@ -1,7 +1,7 @@
 url: https://icloudhospital.com/api/healthz
-status: up
+status: degraded
 code: 200
-responseTime: 2569
-lastUpdated: 2025-03-28T22:32:49.262Z
+responseTime: 3398
+lastUpdated: 2025-03-28T22:43:48.352Z
 startTime: 2025-03-21T11:34:52.846Z
 generator: Upptime <https://github.com/upptime/upptime>
