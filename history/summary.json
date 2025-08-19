@@ -63,18 +63,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/admin-api.icloudhospital.com.ico",
     "slug": "admin-api",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 308,
-    "timeDay": 391,
-    "timeWeek": 339,
-    "timeMonth": 309,
-    "timeYear": 308,
+    "uptime": "99.99%",
+    "uptimeDay": "99.03%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 311,
+    "timeDay": 499,
+    "timeWeek": 387,
+    "timeMonth": 324,
+    "timeYear": 311,
     "dailyMinutesDown": {
-      "2025-08-19": 0
+      "2025-08-19": 14
     }
   }
 ]
