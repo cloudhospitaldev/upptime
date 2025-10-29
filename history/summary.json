@@ -4,7 +4,7 @@
     "url": "https://icloudhospital.com/api/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/icloudhospital.com.ico",
     "slug": "client-platform",
-    "status": "up",
+    "status": "down",
     "uptime": "99.63%",
     "uptimeDay": "78.50%",
     "uptimeWeek": "96.93%",
