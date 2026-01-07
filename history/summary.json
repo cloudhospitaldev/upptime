@@ -71,18 +71,19 @@
     "url": "https://admin-api.icloudhospital.com/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/admin-api.icloudhospital.com.ico",
     "slug": "admin-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 302,
-    "timeDay": 419,
-    "timeWeek": 250,
+    "timeDay": 353,
+    "timeWeek": 254,
     "timeMonth": 287,
     "timeYear": 302,
     "dailyMinutesDown": {
+      "2026-01-07": 0,
       "2025-08-19": 14
     }
   }
