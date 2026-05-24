@@ -11,15 +11,15 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 382,
-    "timeDay": 93,
-    "timeWeek": 90,
-    "timeMonth": 118,
+    "timeDay": 103,
+    "timeWeek": 95,
+    "timeMonth": 119,
     "timeYear": 126,
     "dailyMinutesDown": {
-      "2026-04-10": 60,
-      "2026-01-17": 19,
+      "2025-10-29": 340,
       "2025-12-08": 38,
-      "2025-10-29": 340
+      "2026-01-17": 19,
+      "2026-04-10": 60
     }
   },
   {
@@ -28,21 +28,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/global.icloudhospital.com.ico",
     "slug": "admin-platform",
     "status": "up",
-    "uptime": "99.53%",
+    "uptime": "99.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.45%",
     "time": 297,
-    "timeDay": 395,
-    "timeWeek": 289,
-    "timeMonth": 261,
+    "timeDay": 401,
+    "timeWeek": 318,
+    "timeMonth": 263,
     "timeYear": 293,
     "dailyMinutesDown": {
-      "2026-04-11": 798,
-      "2026-04-10": 858,
       "2025-11-28": 356,
-      "2025-11-27": 854
+      "2025-11-27": 854,
+      "2026-04-10": 858,
+      "2026-04-11": 798
     }
   },
   {
@@ -57,21 +57,21 @@
     "uptimeMonth": "99.64%",
     "uptimeYear": "99.40%",
     "time": 358,
-    "timeDay": 380,
-    "timeWeek": 312,
-    "timeMonth": 293,
-    "timeYear": 371,
+    "timeDay": 325,
+    "timeWeek": 318,
+    "timeMonth": 291,
+    "timeYear": 370,
     "dailyMinutesDown": {
-      "2026-05-11": 156,
-      "2026-04-21": 113,
+      "2025-11-17": 24,
+      "2025-11-18": 15,
+      "2025-12-05": 9,
+      "2026-01-13": 15,
+      "2026-01-16": 13,
       "2026-04-12": 467,
       "2026-04-11": 1440,
       "2026-04-10": 912,
-      "2026-01-16": 13,
-      "2026-01-13": 15,
-      "2025-12-05": 9,
-      "2025-11-18": 15,
-      "2025-11-17": 24
+      "2026-04-21": 113,
+      "2026-05-11": 156
     }
   },
   {
@@ -86,15 +86,15 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
     "time": 294,
-    "timeDay": 401,
-    "timeWeek": 295,
-    "timeMonth": 277,
+    "timeDay": 338,
+    "timeWeek": 304,
+    "timeMonth": 274,
     "timeYear": 295,
     "dailyMinutesDown": {
-      "2026-04-12": 293,
-      "2026-04-11": 597,
+      "2025-08-19": 14,
       "2026-01-07": 11,
-      "2025-08-19": 14
+      "2026-04-12": 293,
+      "2026-04-11": 597
     }
   }
 ]
