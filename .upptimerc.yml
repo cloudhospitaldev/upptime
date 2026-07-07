@@ -23,6 +23,566 @@ sites:
   - name: AdminApi
     url: https://admin-api.icloudhospital.com/healthz
     maxResponseTime: 5000 # 5 sec
+  # === BEGIN ch-saas tenants (auto-generated — do not edit) ===
+  - name: aubeclinic.icloudhospital.com
+    url: https://aubeclinic.icloudhospital.com/api/healthz
+    maxResponseTime: 5000
+  - name: aurahealthcentertijuana.icloudhospital.com
+    url: https://aurahealthcentertijuana.icloudhospital.com/api/healthz
+    maxResponseTime: 5000
+  - name: azurahospital.icloudhospital.com
+    url: https://azurahospital.icloudhospital.com/api/healthz
+    maxResponseTime: 5000
+  - name: gnghospitalrhinoplastyclinic.icloudhospital.com
+    url: https://gnghospitalrhinoplastyclinic.icloudhospital.com/api/healthz
+    maxResponseTime: 5000
+  - name: gongganplasticsurgery.icloudhospital.com
+    url: https://gongganplasticsurgery.icloudhospital.com/api/healthz
+    maxResponseTime: 5000
+  - name: goodpersoneyeclinic.icloudhospital.com
+    url: https://goodpersoneyeclinic.icloudhospital.com/api/healthz
+    maxResponseTime: 5000
+  - name: hospitaldelafamilia.icloudhospital.com
+    url: https://hospitaldelafamilia.icloudhospital.com/api/healthz
+    maxResponseTime: 5000
+  - name: kyungheehyojeonorientalclinic.icloudhospital.com
+    url: https://kyungheehyojeonorientalclinic.icloudhospital.com/api/healthz
+    maxResponseTime: 5000
+  - name: merryplasticsurgery.icloudhospital.com
+    url: https://merryplasticsurgery.icloudhospital.com/api/healthz
+    maxResponseTime: 5000
+  - name: narshahospital.icloudhospital.com
+    url: https://narshahospital.icloudhospital.com/api/healthz
+    maxResponseTime: 5000
+  - name: nidofertility.icloudhospital.com
+    url: https://nidofertility.icloudhospital.com/api/healthz
+    maxResponseTime: 5000
+  - name: theyonseimizwomensclinic.icloudhospital.com
+    url: https://theyonseimizwomensclinic.icloudhospital.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.aceeyecareclinic.com
+    url: https://www.aceeyecareclinic.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.afternoonplasticsurgeryclinic.com
+    url: https://www.afternoonplasticsurgeryclinic.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.alwaysforyouclinic.com
+    url: https://www.alwaysforyouclinic.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.antiaging-korea.com
+    url: https://www.antiaging-korea.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.arinedietclinic.com
+    url: https://www.arinedietclinic.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.arkeplasticsurgery.com
+    url: https://www.arkeplasticsurgery.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.asomeentertainment.com
+    url: https://www.asomeentertainment.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.banpojeilkoreaclinic.com
+    url: https://www.banpojeilkoreaclinic.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.banponewbornclinic.com
+    url: https://www.banponewbornclinic.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.barokoplasticsurgery.com
+    url: https://www.barokoplasticsurgery.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.beautifulstoryclinic.com
+    url: https://www.beautifulstoryclinic.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.bestdoctorskorea.com
+    url: https://www.bestdoctorskorea.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.blepharoplastysouthkorea.com
+    url: https://www.blepharoplastysouthkorea.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.blsclinic1-global.com
+    url: https://www.blsclinic1-global.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.bnsclinickr.com
+    url: https://www.bnsclinickr.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.bon-plasticsurgery.com
+    url: https://www.bon-plasticsurgery.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.botoxsouthkorea.com
+    url: https://www.botoxsouthkorea.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.breastaugmentationkorea.com
+    url: https://www.breastaugmentationkorea.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.browneyeclinic.com
+    url: https://www.browneyeclinic.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.celliniquestemcell.com
+    url: https://www.celliniquestemcell.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.cellondermatology.com
+    url: https://www.cellondermatology.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.centumyeonantiagingclinic.com
+    url: https://www.centumyeonantiagingclinic.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.charmvascularclinic.com
+    url: https://www.charmvascularclinic.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.cheekbonereductionkorea.com
+    url: https://www.cheekbonereductionkorea.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.cheongdamcellclinic.com
+    url: https://www.cheongdamcellclinic.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.cheongdamidunclinic.com
+    url: https://www.cheongdamidunclinic.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.cheongdamsminclinic.com
+    url: https://www.cheongdamsminclinic.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.chinaugmentationkorea.com
+    url: https://www.chinaugmentationkorea.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.cinderellaplasticsurgery.com
+    url: https://www.cinderellaplasticsurgery.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.deesseclinic.com
+    url: https://www.deesseclinic.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.dekabi.com
+    url: https://www.dekabi.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.delightdermatology.com
+    url: https://www.delightdermatology.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.dentalimplantkorea.com
+    url: https://www.dentalimplantkorea.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.dentistinkorea.com
+    url: https://www.dentistinkorea.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.dentistinseoul.com
+    url: https://www.dentistinseoul.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.dermapod.in
+    url: https://www.dermapod.in/api/healthz
+    maxResponseTime: 5000
+  - name: www.dermatologysouthkorea.com
+    url: https://www.dermatologysouthkorea.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.diar-clinic.com
+    url: https://www.diar-clinic.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.diteplasticsurgery.com
+    url: https://www.diteplasticsurgery.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.dlpskorea.com
+    url: https://www.dlpskorea.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.doctorpetitmyeongdong.com
+    url: https://www.doctorpetitmyeongdong.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.dojagi-clinic.com
+    url: https://www.dojagi-clinic.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.doubleeyelidsurgerykorea.com
+    url: https://www.doubleeyelidsurgerykorea.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.doublejawsurgerykorea.com
+    url: https://www.doublejawsurgerykorea.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.dranujtiwari.com
+    url: https://www.dranujtiwari.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.egdonganclinic.com
+    url: https://www.egdonganclinic.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.ekdongmukoreanmedicine.com
+    url: https://www.ekdongmukoreanmedicine.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.eunskinclinic.com
+    url: https://www.eunskinclinic.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.eurekaclinic-korea.com
+    url: https://www.eurekaclinic-korea.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.faceliftsouthkorea.com
+    url: https://www.faceliftsouthkorea.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.faceplusplasticsurgery.com
+    url: https://www.faceplusplasticsurgery.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.gangnamdental.com
+    url: https://www.gangnamdental.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.gangnameyeclinic.com
+    url: https://www.gangnameyeclinic.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.gangnamnaturalbeauty.com
+    url: https://www.gangnamnaturalbeauty.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.gangnamplastics.com
+    url: https://www.gangnamplastics.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.gangnamstmarysurologyclinic.com
+    url: https://www.gangnamstmarysurologyclinic.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.gangnamstyleclinic.com
+    url: https://www.gangnamstyleclinic.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.globalownclinic.com
+    url: https://www.globalownclinic.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.gseyeclinicglobal.com
+    url: https://www.gseyeclinicglobal.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.hairtransplantsouthkorea.com
+    url: https://www.hairtransplantsouthkorea.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.hanaentcare.com
+    url: https://www.hanaentcare.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.haniplasticsurgery.com
+    url: https://www.haniplasticsurgery.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.hannaeveglobal.com
+    url: https://www.hannaeveglobal.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.hipreplacementkorea.com
+    url: https://www.hipreplacementkorea.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.howardpainclinic.com
+    url: https://www.howardpainclinic.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.hugo-ps-global.com
+    url: https://www.hugo-ps-global.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.human-plasticsurgery.com
+    url: https://www.human-plasticsurgery.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.i-legplusclinic.com
+    url: https://www.i-legplusclinic.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.jawsurgerykorea.com
+    url: https://www.jawsurgerykorea.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.jessiebeautyacademy.com
+    url: https://www.jessiebeautyacademy.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.jeunexkorea.com
+    url: https://www.jeunexkorea.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.jnbplasticsurgeryclinic.com
+    url: https://www.jnbplasticsurgeryclinic.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.joeunnuneyeglobal.com
+    url: https://www.joeunnuneyeglobal.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.jryneyeclinic.com
+    url: https://www.jryneyeclinic.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.justplasticsurgeryclinic.com
+    url: https://www.justplasticsurgeryclinic.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.juyeonwomensclinicseoul.com
+    url: https://www.juyeonwomensclinicseoul.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.kimdsomd.com
+    url: https://www.kimdsomd.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.kimminjungclinic.com
+    url: https://www.kimminjungclinic.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.kleamclinic.com
+    url: https://www.kleamclinic.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.kneereplacementinkorea.com
+    url: https://www.kneereplacementinkorea.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.kobijouclinic.com
+    url: https://www.kobijouclinic.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.koreanskinclinics.com
+    url: https://www.koreanskinclinics.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.koreapainrelief.com
+    url: https://www.koreapainrelief.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.kowonplasticsurgery.com
+    url: https://www.kowonplasticsurgery.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.lasertreatmentkorea.com
+    url: https://www.lasertreatmentkorea.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.limetreedentalhospital.com
+    url: https://www.limetreedentalhospital.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.liposuctionsouthkorea.com
+    url: https://www.liposuctionsouthkorea.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.litingkorea.com
+    url: https://www.litingkorea.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.lupielclinic.com
+    url: https://www.lupielclinic.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.maisondemclinic.com
+    url: https://www.maisondemclinic.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.marqpsglobal.com
+    url: https://www.marqpsglobal.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.masonbeautyclinic.com
+    url: https://www.masonbeautyclinic.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.maylinskinclinic.com
+    url: https://www.maylinskinclinic.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.medicellplusclinicglobal.com
+    url: https://www.medicellplusclinicglobal.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.miraecellclinic.com
+    url: https://www.miraecellclinic.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.neouwoman1.com
+    url: https://www.neouwoman1.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.newbreathhospitalkorea.com
+    url: https://www.newbreathhospitalkorea.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.newstarskin.com
+    url: https://www.newstarskin.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.nobleclassicclinic.com
+    url: https://www.nobleclassicclinic.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.nysdentalclinic.com
+    url: https://www.nysdentalclinic.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.odeclinicglobal.com
+    url: https://www.odeclinicglobal.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.ohdentalglobal.com
+    url: https://www.ohdentalglobal.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.onesclinicglobal.com
+    url: https://www.onesclinicglobal.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.origindentalclinic.com
+    url: https://www.origindentalclinic.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.pentahealclinic.com
+    url: https://www.pentahealclinic.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.planewclinickorea.com
+    url: https://www.planewclinickorea.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.plansclinicglobal.com
+    url: https://www.plansclinicglobal.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.plansclinicmyeongdong.com
+    url: https://www.plansclinicmyeongdong.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.puebladermclinic.com
+    url: https://www.puebladermclinic.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.pureunclinic.com
+    url: https://www.pureunclinic.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.pyonasilorthopedicsurgeryclinic.com
+    url: https://www.pyonasilorthopedicsurgeryclinic.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.raphacellclinickorea.com
+    url: https://www.raphacellclinickorea.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.readyplasticsurgery.com
+    url: https://www.readyplasticsurgery.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.refitbeautyclinic.com
+    url: https://www.refitbeautyclinic.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.regencell-clinic.com
+    url: https://www.regencell-clinic.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.renuplasticsurgery.com
+    url: https://www.renuplasticsurgery.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.restoryplasticsurgery.com
+    url: https://www.restoryplasticsurgery.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.rhinoplastysouthkorea.com
+    url: https://www.rhinoplastysouthkorea.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.rnwoodclinickorea.com
+    url: https://www.rnwoodclinickorea.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.royallineclinic.com
+    url: https://www.royallineclinic.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.samsung-balance.com
+    url: https://www.samsung-balance.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.sangdowooriglobal.com
+    url: https://www.sangdowooriglobal.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.sayupsychiatryclinic.com
+    url: https://www.sayupsychiatryclinic.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.sc301plasticsurgery.com
+    url: https://www.sc301plasticsurgery.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.secondspringwomen.com
+    url: https://www.secondspringwomen.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.seoljaeyoonclinic.com
+    url: https://www.seoljaeyoonclinic.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.seolreimclinic.com
+    url: https://www.seolreimclinic.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.seongsumeltingclinic.com
+    url: https://www.seongsumeltingclinic.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.seoulpsychiatryclinic.com
+    url: https://www.seoulpsychiatryclinic.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.seoulshinsegaeeyecenter.com
+    url: https://www.seoulshinsegaeeyecenter.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.seoulyeshospital.com
+    url: https://www.seoulyeshospital.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.sfaceseoul.com
+    url: https://www.sfaceseoul.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.sgpsychiatryclinic.com
+    url: https://www.sgpsychiatryclinic.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.sharppsglobal.com
+    url: https://www.sharppsglobal.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.sheswellkorea.com
+    url: https://www.sheswellkorea.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.sinsafacialsurgery.com
+    url: https://www.sinsafacialsurgery.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.sinsangps.com
+    url: https://www.sinsangps.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.skinclinicsgangnam.com
+    url: https://www.skinclinicsgangnam.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.skinclinicsseoul.com
+    url: https://www.skinclinicsseoul.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.skinwhiteningkorea.com
+    url: https://www.skinwhiteningkorea.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.smileviewclinic.com
+    url: https://www.smileviewclinic.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.snuseoulglobal.com
+    url: https://www.snuseoulglobal.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.soonplusplasticsurgery.com
+    url: https://www.soonplusplasticsurgery.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.spinesurgerykorea.com
+    url: https://www.spinesurgerykorea.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.srujanchildrenshospital.in
+    url: https://www.srujanchildrenshospital.in/api/healthz
+    maxResponseTime: 5000
+  - name: www.sshtorthokorea.com
+    url: https://www.sshtorthokorea.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.stemcelltreatmentkorea.com
+    url: https://www.stemcelltreatmentkorea.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.stemkcosmo.com
+    url: https://www.stemkcosmo.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.stmaryswellnessclinic.com
+    url: https://www.stmaryswellnessclinic.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.sugarplasticsurgery.com
+    url: https://www.sugarplasticsurgery.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.thebbprskorea.com
+    url: https://www.thebbprskorea.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.theprideps.com
+    url: https://www.theprideps.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.thewellsclinicseoul.com
+    url: https://www.thewellsclinicseoul.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.tj-plasticsurgery.com
+    url: https://www.tj-plasticsurgery.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.tongilwomensclinic.com
+    url: https://www.tongilwomensclinic.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.trinitywomenclinic.com
+    url: https://www.trinitywomenclinic.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.tummytucksouthkorea.com
+    url: https://www.tummytucksouthkorea.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.ubaleyeclinic.com
+    url: https://www.ubaleyeclinic.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.umiclinickorea.com
+    url: https://www.umiclinickorea.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.urgentclinickorea.com
+    url: https://www.urgentclinickorea.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.urologykorea.com
+    url: https://www.urologykorea.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.vellicellderma.com
+    url: https://www.vellicellderma.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.veneerssouthkorea.com
+    url: https://www.veneerssouthkorea.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.verygoodaesthetics.com
+    url: https://www.verygoodaesthetics.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.vlinesurgerykorea.com
+    url: https://www.vlinesurgerykorea.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.willplasticsugery.com
+    url: https://www.willplasticsugery.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.ye-ondentalclinic.com
+    url: https://www.ye-ondentalclinic.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.yeppeda.com
+    url: https://www.yeppeda.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.yirimkoreanclinic.com
+    url: https://www.yirimkoreanclinic.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.yonseibeautifulgynecology.com
+    url: https://www.yonseibeautifulgynecology.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.yonseiclinicseoul.com
+    url: https://www.yonseiclinicseoul.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.yonseileedsclinic.com
+    url: https://www.yonseileedsclinic.com/api/healthz
+    maxResponseTime: 5000
+  - name: www.yujinplasticsurgery.com
+    url: https://www.yujinplasticsurgery.com/api/healthz
+    maxResponseTime: 5000
+  - name: yonseileecellclinic.icloudhospital.com
+    url: https://yonseileecellclinic.icloudhospital.com/api/healthz
+    maxResponseTime: 5000
+  # === END ch-saas tenants ===
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
