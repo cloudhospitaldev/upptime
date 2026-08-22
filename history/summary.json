@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/icloudhospital.com.ico",
     "slug": "client-platform",
     "status": "up",
-    "uptime": "99.80%",
+    "uptime": "99.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -52,17 +52,17 @@
     "url": "https://api.icloudhospital.com/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/api.icloudhospital.com.ico",
     "slug": "client-api",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.56%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.37%",
-    "time": 405,
-    "timeDay": 319,
-    "timeWeek": 269,
-    "timeMonth": 1135,
-    "timeYear": 435,
+    "time": 509,
+    "timeDay": 25904,
+    "timeWeek": 6672,
+    "timeMonth": 2616,
+    "timeYear": 569,
     "dailyMinutesDown": {
       "2025-11-17": 24,
       "2025-11-18": 15,
@@ -74,7 +74,8 @@
       "2026-04-10": 912,
       "2026-04-21": 113,
       "2026-05-11": 156,
-      "2026-08-06": 128
+      "2026-08-06": 128,
+      "2026-08-22": 0
     }
   },
   {
